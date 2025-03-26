@@ -2,7 +2,7 @@
 
  
 
-[Live Demo](https://admin-dashboard-gamma-seven-95.vercel.app/login)
+ 
 
 A simple React application built with [Vite](https://vitejs.dev/) for fast development and **Tailwind CSS** for styling. This project is a minimal setup to get started with React, Vite, and Tailwind, focused on the frontend development.
 
